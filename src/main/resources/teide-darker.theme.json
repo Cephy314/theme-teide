@@ -1,0 +1,53 @@
+{
+  "name": "Teide Darker",
+  "dark": true,
+  "author": "Cephy314",
+  "editorScheme": "/teide_darker.xml",
+
+  "colors": {
+    "bg": "#171B20",
+    "fg": "#E7EAEE",
+    "bg_dark": "#12161a",
+    "bg_darker": "#111418",
+    "bg_dimmed": "#14171c",
+    "bg_highlight": "#2C313A",
+    "blue": "#5CCEFF",
+    "blue0": "#00648F",
+    "blue1": "#89BEFF",
+    "blue2": "#9DA9E7",
+    "blue5": "#AFDBFD",
+    "blue6": "#AFDBFD",
+    "blue7": "#254365",
+    "comment": "#586172",
+    "cyan": "#0AE7FF",
+    "cyan2": "#00FBFF",
+    "dark3": "#545c7e",
+    "dark5": "#B9B8D3",
+    "dark6": "#8E98A8",
+    "dark7": "#BFC7D1",
+    "fg_dark": "#a9b1d6",
+    "fg_darker": "#919BCA",
+    "fg_gutter": "#474E5C",
+    "green": "#38FFA5",
+    "green1": "#8FEBD3",
+    "green2": "#68C9C9",
+    "magenta": "#FFB3EC",
+    "magenta2": "#B2A3FF",
+    "orange": "#FFA064",
+    "orange1": "#FF924E",
+    "purple": "#A592FF",
+    "red": "#F97791",
+    "red1": "#F73F64",
+    "teal": "#41FFDC",
+    "terminal_black": "#414868",
+    "yellow": "#FFE77A",
+    "yellow1": "#FFCB77",
+    "git_add": "#1BB16E",
+    "git_change": "#2AA9DF",
+    "git_delete": "#EE4B6B"
+  },
+
+  "ui": {
+    "Panel.background": "background"
+  }
+}
