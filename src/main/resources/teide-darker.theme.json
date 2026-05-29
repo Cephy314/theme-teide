@@ -48,6 +48,14 @@
   },
 
   "ui": {
-    "Panel.background": "background"
+
+    "ToolWindow.background": "bg",
+    "ToolWindow.Header.background": "bg",
+    "ToolWindow.Header.inactiveBackground": "bg",
+
+    "MainWindow.background": "bg_dimmed",
+
+    "Island.borderColor": "bg",
+    "Panel.background": "bg_dark"
   }
 }
